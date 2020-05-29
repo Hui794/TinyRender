@@ -1,0 +1,33 @@
+﻿  test_005.cpp
+D:\selflearn\TinyRender794\05_simplelight\05_simplelight\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\selflearn\TinyRender794\05_simplelight\05_simplelight\test_005.cpp(24,18): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\selflearn\TinyRender794\05_simplelight\05_simplelight\test_005.cpp(25,18): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\selflearn\TinyRender794\05_simplelight\05_simplelight\test_005.cpp(26,18): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\selflearn\TinyRender794\05_simplelight\05_simplelight\test_005.cpp(86,88): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\selflearn\TinyRender794\05_simplelight\05_simplelight\test_005.cpp(86,71): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\selflearn\TinyRender794\05_simplelight\05_simplelight\test_005.cpp(86,54): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+  05_simplelight.vcxproj -> D:\selflearn\TinyRender794\05_simplelight\x64\Debug\05_simplelight.exe

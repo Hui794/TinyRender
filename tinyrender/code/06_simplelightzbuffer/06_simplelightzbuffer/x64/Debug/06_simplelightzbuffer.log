@@ -1,0 +1,36 @@
+﻿  test_006.cpp
+D:\selflearn\TinyRender794\06_simplelightzbuffer\06_simplelightzbuffer\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\selflearn\TinyRender794\06_simplelightzbuffer\06_simplelightzbuffer\test_006.cpp(39,56): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\selflearn\TinyRender794\06_simplelightzbuffer\06_simplelightzbuffer\test_006.cpp(39,32): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\selflearn\TinyRender794\06_simplelightzbuffer\06_simplelightzbuffer\test_006.cpp(58,21): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\selflearn\TinyRender794\06_simplelightzbuffer\06_simplelightzbuffer\test_006.cpp(58,16): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\selflearn\TinyRender794\06_simplelightzbuffer\06_simplelightzbuffer\test_006.cpp(66,65): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\selflearn\TinyRender794\06_simplelightzbuffer\06_simplelightzbuffer\test_006.cpp(66,18): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\selflearn\TinyRender794\06_simplelightzbuffer\06_simplelightzbuffer\test_006.cpp(98,97): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\selflearn\TinyRender794\06_simplelightzbuffer\06_simplelightzbuffer\test_006.cpp(98,80): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\selflearn\TinyRender794\06_simplelightzbuffer\06_simplelightzbuffer\test_006.cpp(98,63): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+  06_simplelightzbuffer.vcxproj -> D:\selflearn\TinyRender794\06_simplelightzbuffer\x64\Debug\06_simplelightzbuffer.exe

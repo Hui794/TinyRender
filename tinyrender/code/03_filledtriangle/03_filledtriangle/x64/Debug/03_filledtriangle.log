@@ -1,0 +1,18 @@
+﻿  test_003.cpp
+D:\selflearn\TinyRender794\03_filledtriangle\03_filledtriangle\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\selflearn\TinyRender794\03_filledtriangle\03_filledtriangle\test_003.cpp(61,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\selflearn\TinyRender794\03_filledtriangle\03_filledtriangle\geometry.h(56,1): warning C4244: “*=”: 从“const U”转换到“T”，可能丢失数据
+          with
+          [
+              U=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\selflearn\TinyRender794\03_filledtriangle\03_filledtriangle\test_003.cpp(39): message : 查看对正在编译的函数 模板 实例化“vec<2,int> operator *<2,int,float>(vec<2,int>,const U &)”的引用
+          with
+          [
+              U=float
+          ]
+  03_filledtriangle.vcxproj -> D:\selflearn\TinyRender794\03_filledtriangle\x64\Debug\03_filledtriangle.exe

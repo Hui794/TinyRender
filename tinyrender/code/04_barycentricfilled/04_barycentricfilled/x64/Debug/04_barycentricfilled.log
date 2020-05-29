@@ -1,0 +1,31 @@
+﻿  test_004.cpp
+D:\selflearn\TinyRender794\04_barycentricfilled\04_barycentricfilled\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\selflearn\TinyRender794\04_barycentricfilled\04_barycentricfilled\test_004.cpp(24,18): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\selflearn\TinyRender794\04_barycentricfilled\04_barycentricfilled\test_004.cpp(25,18): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\selflearn\TinyRender794\04_barycentricfilled\04_barycentricfilled\test_004.cpp(26,18): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\selflearn\TinyRender794\04_barycentricfilled\04_barycentricfilled\test_004.cpp(70,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  04_barycentricfilled.vcxproj -> D:\selflearn\TinyRender794\04_barycentricfilled\x64\Debug\04_barycentricfilled.exe
