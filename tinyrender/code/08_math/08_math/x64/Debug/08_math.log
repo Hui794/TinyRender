@@ -1,0 +1,24 @@
+﻿  test_008.cpp
+D:\selflearn\TinyRender794\08_math\08_math\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\selflearn\TinyRender794\08_math\08_math\test_008.cpp(85,20): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\selflearn\TinyRender794\08_math\08_math\test_008.cpp(86,21): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\selflearn\TinyRender794\08_math\08_math\test_008.cpp(158,107): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\selflearn\TinyRender794\08_math\08_math\test_008.cpp(158,90): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\selflearn\TinyRender794\08_math\08_math\test_008.cpp(158,73): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+  08_math.vcxproj -> D:\selflearn\TinyRender794\08_math\x64\Debug\08_math.exe
