@@ -1,0 +1,56 @@
+﻿  model.cpp
+D:\selflearn\TinyRender794\07_texture\07_texture\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\selflearn\TinyRender794\07_texture\07_texture\model.cpp(74,55): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\selflearn\TinyRender794\07_texture\07_texture\model.cpp(74,22): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  test_007.cpp
+D:\selflearn\TinyRender794\07_texture\07_texture\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\selflearn\TinyRender794\07_texture\07_texture\test_007.cpp(39,56): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\selflearn\TinyRender794\07_texture\07_texture\test_007.cpp(39,32): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\selflearn\TinyRender794\07_texture\07_texture\test_007.cpp(66,21): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\selflearn\TinyRender794\07_texture\07_texture\test_007.cpp(66,16): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\selflearn\TinyRender794\07_texture\07_texture\test_007.cpp(74,65): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\selflearn\TinyRender794\07_texture\07_texture\test_007.cpp(74,18): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+  tgaimage.cpp
+D:\selflearn\TinyRender794\07_texture\07_texture\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  正在生成代码...
+  07_texture.vcxproj -> D:\selflearn\TinyRender794\07_texture\x64\Debug\07_texture.exe
