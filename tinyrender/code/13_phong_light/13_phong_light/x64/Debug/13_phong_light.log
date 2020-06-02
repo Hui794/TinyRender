@@ -1,0 +1,13 @@
+﻿  test_013.cpp
+D:\selflearn\TinyRender794\13_phong_light\13_phong_light\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\selflearn\TinyRender794\13_phong_light\13_phong_light\test_013.cpp(89,33): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\selflearn\TinyRender794\13_phong_light\13_phong_light\test_013.cpp(89,30): warning C4244: “=”: 从“const _Ty”转换到“unsigned char”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+  13_phong_light.vcxproj -> D:\selflearn\TinyRender794\13_phong_light\x64\Debug\13_phong_light.exe

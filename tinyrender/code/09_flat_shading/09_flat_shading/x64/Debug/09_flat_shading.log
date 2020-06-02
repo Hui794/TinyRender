@@ -1,0 +1,3 @@
+﻿  test_009.cpp
+D:\selflearn\TinyRender794\09_flat_shading\09_flat_shading\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  09_flat_shading.vcxproj -> D:\selflearn\TinyRender794\09_flat_shading\x64\Debug\09_flat_shading.exe

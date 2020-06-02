@@ -1,0 +1,7 @@
+﻿  test_010.cpp
+D:\selflearn\TinyRender794\10_gouraud_shading\10_gouraud_shading\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\selflearn\TinyRender794\10_gouraud_shading\10_gouraud_shading\test_010.cpp(57,1): warning C4305: “=”: 从“double”到“float”截断
+D:\selflearn\TinyRender794\10_gouraud_shading\10_gouraud_shading\test_010.cpp(58,1): warning C4305: “=”: 从“double”到“float”截断
+D:\selflearn\TinyRender794\10_gouraud_shading\10_gouraud_shading\test_010.cpp(59,1): warning C4305: “=”: 从“double”到“float”截断
+D:\selflearn\TinyRender794\10_gouraud_shading\10_gouraud_shading\test_010.cpp(60,1): warning C4305: “=”: 从“double”到“float”截断
+  10_gouraud_shading.vcxproj -> D:\selflearn\TinyRender794\10_gouraud_shading\x64\Debug\10_gouraud_shading.exe

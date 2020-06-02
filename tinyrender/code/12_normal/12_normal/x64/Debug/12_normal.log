@@ -1,0 +1,110 @@
+﻿  geometry.cpp
+D:\selflearn\TinyRender794\12_normal\12_normal\geometry.cpp(7,3): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\selflearn\TinyRender794\12_normal\12_normal\geometry.cpp(7,11): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\selflearn\TinyRender794\12_normal\12_normal\geometry.cpp(7,19): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\selflearn\TinyRender794\12_normal\12_normal\geometry.cpp(13,3): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\selflearn\TinyRender794\12_normal\12_normal\geometry.cpp(13,11): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  model.cpp
+D:\selflearn\TinyRender794\12_normal\12_normal\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\selflearn\TinyRender794\12_normal\12_normal\model.cpp(82,54): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\selflearn\TinyRender794\12_normal\12_normal\model.cpp(82,21): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\selflearn\TinyRender794\12_normal\12_normal\model.cpp(92,55): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\selflearn\TinyRender794\12_normal\12_normal\model.cpp(92,21): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  our_gl.cpp
+D:\selflearn\TinyRender794\12_normal\12_normal\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\selflearn\TinyRender794\12_normal\12_normal\our_gl.cpp(70,20): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\selflearn\TinyRender794\12_normal\12_normal\our_gl.cpp(71,21): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  test_012.cpp
+D:\selflearn\TinyRender794\12_normal\12_normal\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  tgaimage.cpp
+D:\selflearn\TinyRender794\12_normal\12_normal\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  正在生成代码...
+  12_normal.vcxproj -> D:\selflearn\TinyRender794\12_normal\x64\Debug\12_normal.exe
